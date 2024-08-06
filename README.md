@@ -48,49 +48,47 @@ print(results)
 ```
 ## Detailed Framework Structure
 The AIEthicsFramework class is the core of PyGuardian. It contains methods for assessing various ethical principles:
-Fairness Assessment
-The assess_fairness method evaluates the model's fairness across multiple metrics:
 
-Demographic Parity
-Equal Opportunity
-Disparate Impact
+- Fairness Assessment: The assess_fairness method evaluates the model's fairness across multiple metrics:
 
-Transparency Evaluation
-The assess_transparency method analyzes the model's documentation for:
+    Demographic Parity
+    Equal Opportunity
+    Disparate Impact
 
-Model Architecture Disclosure
-Training Data Description
-Performance Metrics Disclosure
-Limitations Disclosure
+Transparency Evaluation: The assess_transparency method analyzes the model's documentation for:
 
-Privacy Consideration
-The assess_privacy method examines data handling procedures, checking for:
+    Model Architecture Disclosure
+    Training Data Description
+    Performance Metrics Disclosure
+    Limitations Disclosure
 
-Data Minimization
-Anonymization Techniques
-Consent Mechanisms
-Data Retention Policies
+Privacy Consideration: The assess_privacy method examines data handling procedures, checking for:
 
-Robustness Testing
-The assess_robustness method tests the model's resilience through:
+    Data Minimization
+    Anonymization Techniques
+    Consent Mechanisms
+    Data Retention Policies
 
-Adversarial Robustness Checks
-Out-of-Distribution Performance Evaluation
-Stability Under Data Perturbations
+Robustness Testing: The assess_robustness method tests the model's resilience through:
 
-Comprehensive Evaluation
-The evaluate method provides a holistic assessment across all ethical principles, combining the results from individual assessments.
-Contributing
+    Adversarial Robustness Checks
+    Out-of-Distribution Performance Evaluation
+    Stability Under Data Perturbations
+
+Comprehensive Evaluation: The evaluate method provides a holistic assessment across all ethical principles, combining the results from individual assessments.
+
+## Contributing
 We welcome contributions to PyGuardian! Here's how you can contribute:
 
-Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+    Fork the repository
+    Create your feature branch (git checkout -b feature/AmazingFeature)
+    Commit your changes (git commit -m 'Add some AmazingFeature')
+    Push to the branch (git push origin feature/AmazingFeature)
+    Open a Pull Request
 
 Please ensure your code adheres to our coding standards and include tests for new features.
-License
+
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 Acknowledgments
 
@@ -100,17 +98,17 @@ Thanks to all contributors who have helped shape this framework.
 ## Contact
 For any questions, feedback, or issues, please:
 
-Open an issue in this repository
-Contact the maintainers at pyguardian@example.com
-Join our community Slack channel: PyGuardian Community
+    Open an issue in this repository
+    Contact the maintainers at pyguardian@example.com
+    Join our community Slack channel: PyGuardian Community
 
 ## Roadmap
 We're constantly working to improve PyGuardian. Here are some features we're planning for future releases:
 
-Integration with popular machine learning frameworks
-GUI for easier interaction with the framework
-Extended documentation and tutorials
-Support for more fairness metrics and robustness tests
+    Integration with popular machine learning frameworks
+    GUI for easier interaction with the framework
+    Extended documentation and tutorials
+    Support for more fairness metrics and robustness tests
 
 ## Stay tuned for updates!
 
