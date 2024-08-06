@@ -49,7 +49,7 @@ print(results)
 ## Detailed Framework Structure
 The AIEthicsFramework class is the core of PyGuardian. It contains methods for assessing various ethical principles:
 
-- **Fairness Assessment**: The assess_fairness method evaluates the model's fairness across multiple metrics:
+**Fairness Assessment**: The assess_fairness method evaluates the model's fairness across multiple metrics:
   
     - Demographic Parity
     - Equal Opportunity
