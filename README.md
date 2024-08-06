@@ -51,9 +51,9 @@ The AIEthicsFramework class is the core of PyGuardian. It contains methods for a
 
 - **Fairness Assessment**: The assess_fairness method evaluates the model's fairness across multiple metrics:
   
-- Demographic Parity
-- Equal Opportunity
-- Disparate Impact
+    - Demographic Parity
+    - Equal Opportunity
+    - Disparate Impact
 
 **Transparency Evaluation**: The assess_transparency method analyzes the model's documentation for:
 
