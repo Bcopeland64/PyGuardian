@@ -99,7 +99,7 @@ Thanks to all contributors who have helped shape this framework.
 For any questions, feedback, or issues, please:
 
 - Open an issue in this repository
-- Contact the maintainers at pyguardian@example.com
+- Contact the maintainers at bcopeland64@gmail.com
 - Join our community Slack channel: PyGuardian Community
 
 ## Roadmap
