@@ -59,7 +59,7 @@ The AIEthicsFramework class is the core of PyGuardian. It contains methods for a
 
 - Model Architecture Disclosure
 - Training Data Description
-- **Performance Metrics Disclosure
+- Performance Metrics Disclosure
 - Limitations Disclosure
 
 **Privacy Consideration**: The assess_privacy method examines data handling procedures, checking for:
