@@ -100,7 +100,6 @@ For any questions, feedback, or issues, please:
 
 - Open an issue in this repository
 - Contact the maintainers at bcopeland64@gmail.com
-- Join our community Slack channel: PyGuardian Community
 
 ## Roadmap
 We're constantly working to improve PyGuardian. Here are some features we're planning for future releases:
